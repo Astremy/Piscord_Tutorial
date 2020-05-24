@@ -26,7 +26,7 @@ selon comment vous voulez l'utiliser.
 
 ### Comment utiliser Piscord ?
 Voici les tutoriels concernant l'utilisation de Piscord :
-- [Premier Bot / Les Bases](https://github.com/Astremy/Piscord_Tutorial/blob/master/First_Bot)
-- [Création de Messages](https://github.com/Astremy/Piscord_Tutorial/blob/master/Create_Message)
-- [Les Réactions](https://github.com/Astremy/Piscord_Tutorial/blob/master/Reactions)
-- [Les Roles](https://github.com/Astremy/Piscord_Tutorial/blob/master/Roles)
+- [Premier Bot / Les Bases](https://github.com/Astremy/Piscord_Tutorial/blob/master/First_Bot.md)
+- [Création de Messages](https://github.com/Astremy/Piscord_Tutorial/blob/master/Create_Message.md)
+- [Les Réactions](https://github.com/Astremy/Piscord_Tutorial/blob/master/Reactions.md)
+- [Les Roles](https://github.com/Astremy/Piscord_Tutorial/blob/master/Roles.md)
