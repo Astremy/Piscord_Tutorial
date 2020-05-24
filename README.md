@@ -6,7 +6,7 @@
 Piscord permet, au même titre que Discord.py, de faire des bots discord.
 Seulement, l'avantage est que Piscord simplifie la création de bots sur plusieurs points.
 
-Tout d'abord, la programmation avec Piscord est asynchrone, ce qui en simplifie l'utilisation,
+Tout d'abord, la programmation avec Piscord est synchrone, ce qui en simplifie l'utilisation,
 surtout par des personnes pas forcément expertes en python
 
 Ensuite, la librairie n'est pas forcément bloquante.
