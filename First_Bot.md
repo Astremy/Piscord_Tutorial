@@ -94,7 +94,7 @@ Message.guild
 ### Un bot basique
 
 Voici un exemple un peu plus développé de l'utilisation de l'argument (je ne montre pas tout le code, seulement la partie event) :
-```
+```py
 @bot.event
 def on_message(message):
   if message.content == "!infos":
